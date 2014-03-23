@@ -1,0 +1,11 @@
+{
+  "name": "nodify",
+  "version": "0.0.0",
+  "description": "It transforms the browser javascripts to a compatible nodeJS javascripts.",
+  "main": "./lib/nodify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashish Chopra <ashish.h.chopra@ericsson.com>",
+  "license": "BSD"
+}
